@@ -19,9 +19,9 @@ The visualization of charts and data analysis our trader’s see is all built on
 ##  Task 1: Interface with a stock price data feed
 This task includes:  
   
-*__getDataPoint__ function should return correct tuple of stock name, bid_price, ask_price and price. 
-*__getRatio__ function should return the ratio of the two stock prices  
-*main function should output correct stock info, prices and ratio  
+* __getDataPoint__ function should return correct tuple of stock name, bid_price, ask_price and price.   
+* __getRatio__ function should return the ratio of the two stock prices    
+* main function should output correct stock info, prices and ratio    
   
 ##  Task 2: Use JPMorgan Chase frameworks and tools - Open Source Tool Perspective
 This task includes:  
