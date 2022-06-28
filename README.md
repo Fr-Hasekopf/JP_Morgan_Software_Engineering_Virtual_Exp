@@ -1,7 +1,7 @@
 # JP_Morgan_Software_Engineering_Virtual_Exp
 
 <p align="center">
-  <img src="https://ibb.co/5jpn357">
+  <img src="https://i.ibb.co/X503Pzw/1.png">
 </p>
  
 For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
@@ -32,7 +32,7 @@ This ticket is done when the graph displayed in the client-side web application 
 This ticket is done when the graph is also able to aggregate duplicated data retrieved from the server.  
 
 <p align="center">
-  <img src="https://ibb.co/L6dWY4X">
+  <img src="https://i.ibb.co/gwZpmsL/3.png">
 </p> 
   
 ##  Task 3: Display data visually for traders
